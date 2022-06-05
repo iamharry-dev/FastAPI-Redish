@@ -1,7 +1,9 @@
 ## React_Redis_Integration
 
-### Create Database in reddis 
+#### 1. Create Database in reddis 
 
-### query and GET data from reddis using FastAPI
+#### 2. POST data to reddis database from localstorage
 
-### Fetch API data and display it in react js frontend
+#### 3. GET data from data using python API
+
+#### 4. Fetch API data and display it in react js
